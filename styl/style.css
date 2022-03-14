@@ -4,9 +4,20 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-div{
+/* div{
     background-color: #ffc4ce;
     border: 1px solid #000000;
     height: 400;
     width: 400;
+} */
+
+ul{
+    list-style-type: circle;
+}
+
+article{
+    border: 1px solid #000000;
+ background-color: #ffc0cb;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
